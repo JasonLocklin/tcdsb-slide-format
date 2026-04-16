@@ -1,6 +1,6 @@
 title: TCDSB Formats
 version: 1.0.0
-quarto-required: ">=1.6.0"
+quarto-required: ">=1.9.0"
 
 contributes:
   formats:
@@ -17,9 +17,3 @@ contributes:
       title-slide-attributes:
         data-background-image: revealjs/title_slide_background.png
 
-
-    typst:
-      keep-typ: true
-      template-partials:
-        - pdf/typst-template.typ
-        - pdf/typst-show.typ
