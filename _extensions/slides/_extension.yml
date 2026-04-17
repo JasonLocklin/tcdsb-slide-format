@@ -12,6 +12,8 @@ contributes:
       code-fold: true
       theme: [default, tcdsb_revealjs.scss]
       css: tcdsb_extras.css
+      format-resources:
+        - title_slide_background.png
       title-slide-attributes:
         data-background-image: title_slide_background.png
 
