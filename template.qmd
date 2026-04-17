@@ -1,7 +1,7 @@
 ---
 title: Untitled
 format:
-  tcdsb-slide-format-revealjs: default
+  slides-revealjs: default
 author: Jason Locklin
 date: last-modified
 ---
